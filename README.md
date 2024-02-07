@@ -1,5 +1,5 @@
 # HR Analytics Dashboard
 
 
-![Uploading Dashboard.png…]()
+![Uploading Dashboard.jpg…]()
 
